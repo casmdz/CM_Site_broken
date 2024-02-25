@@ -1,0 +1,11 @@
+class=section id=home data-label=Home
+
+> sanity manage 
+
+fix tilt animation stopping 
+optimize more? 
+
+https://www.inwebson.com/demo/css-tricks/
+
+https://www.freecodecamp.org/news/css-selectors-cheat-sheet-for-beginners/
+
