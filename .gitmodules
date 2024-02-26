@@ -1,3 +1,6 @@
 [submodule "backend_sanity"]
 	path = backend_sanity
 	url = https://github.com/casmdz/CM_site_backend_sanity.git
+[submodule "frontend_react"]
+	path = frontend_react
+	url = https://github.com/casmdz/CM_site_frontend.git
